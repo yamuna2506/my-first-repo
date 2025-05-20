@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: powder-blue;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+p {
+    font-size: 18px;
+    color: #34495e;
+    margin: 10px 0;
+}
+
+img {
+    border-radius: 10px;
+    border: 2px solid #2c3e50;
+    margin: 20px 0;
+}
+
+a {
+    color: #e74c3c;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #27ae60;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #219150;
+}
